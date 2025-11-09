@@ -141,7 +141,7 @@ python -m pytest --maxfail=1 --disable-warnings
 | LAION-5B (text ↔ image) | 79.6      | 125          | 6.1          | Unified multi-modal pyramid. |
 | Video-QA (clip)         | 76.8      | 138          | 6.3          | Handles long-form embeddings with adaptive depth. |
 
-Experiments use NVIDIA RTX 4090s and A100s with FAISS backends configured for INT8 compression.
+Experiments use NVIDIA RTX 4090s and H100s with FAISS backends configured for INT8 compression.
 
 ---
 
