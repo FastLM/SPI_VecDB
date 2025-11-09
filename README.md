@@ -166,4 +166,4 @@ SPI_VecDB is licensed under the Apache License 2.0. See `LICENSE` for details.
 
 ## Acknowledgements
 
-Thanks to the SPI_VecDB community for extensive feedback on multi-resolution retrieval, distributed scheduling, and benchmarking methodology. Their real-world workloads shaped the adaptive controller, telemetry tooling, and evaluation suite.
+This project builds upon extensive discussions with the `Milvus` community, whose insights into multi-resolution retrieval, distributed scheduling, and benchmarking practices greatly influenced our adaptive controller design, telemetry framework, and evaluation suite.
