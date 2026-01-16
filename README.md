@@ -143,7 +143,7 @@ python -m pytest --maxfail=1 --disable-warnings
 
 Experiments use NVIDIA RTX 4090s and H100s with FAISS backends configured for INT8 compression.
 
----
+<!-- ---
 
 ## Citation
 
@@ -154,7 +154,7 @@ Experiments use NVIDIA RTX 4090s and H100s with FAISS backends configured for IN
   booktitle={Proceedings of the International Conference on Parallel and Distributed Systems (ICPADS 2025)},
   year={2025}
 }
-```
+``` -->
 
 ---
 
